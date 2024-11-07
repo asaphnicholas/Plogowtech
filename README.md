@@ -3,6 +3,8 @@
 
 >![image (1)](https://github.com/user-attachments/assets/c9c247f6-ef26-485e-b843-addbbc382e38)
 
+> Figma: https://www.figma.com/design/EiSG44PXKXkzb9ZFHzLiZQ/Desenvolvimento---PlugowTech?node-id=57-2&t=5mFv7mMsxU3d2TsK-1
+
 1. O que é o PARTNERSHIP:
 Um sistema de recompensa e fidelidade, podendo participar:
 - PROFISSIONAIS: (Arquitetos, Engenheiros, Designers, Construtores,
